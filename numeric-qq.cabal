@@ -1,11 +1,20 @@
 name:
   numeric-qq
 version:
-  0.1.0
+  0.1.1
 synopsis:
   Quasi-quoters for numbers of different bases
 description:
-  Quasi-quoters for numbers of different bases
+  Quasi-quoters for numeral systems of standard bases:
+  .
+  * Binary (base-2)
+  .
+  * Octal (base-8)
+  .
+  * Hexadecimal (base-16)
+  .
+  All they do is produce integral numbers at compile-time with 
+  compile-time syntax checking.
 category:
   QuasiQoutes, Numeric
 homepage:
