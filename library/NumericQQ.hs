@@ -24,12 +24,6 @@ type Base = Int
 -- >>> [bin|1000001001|]
 -- 521
 -- 
--- >>> [bin|11111111|] :: Word8
--- 255
--- 
--- >>> [bin|11111111|] :: Int8
--- -1
--- 
 bin :: QuasiQuoter
 bin = qq 2
 

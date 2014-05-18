@@ -1,7 +1,7 @@
 name:
   numeric-qq
 version:
-  0.1.1
+  0.1.2
 synopsis:
   Quasi-quoters for numbers of different bases
 description:
