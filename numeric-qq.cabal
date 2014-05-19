@@ -16,7 +16,7 @@ description:
   All they do is produce integral numbers at compile-time with 
   compile-time syntax checking.
 category:
-  QuasiQoutes, Numeric
+  QuasiQuotes, Numeric
 homepage:
   https://github.com/nikita-volkov/numeric-qq 
 bug-reports:
