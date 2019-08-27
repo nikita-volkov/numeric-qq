@@ -1,5 +1,5 @@
 module NumericQQ.Prelude
-( 
+(
   module Exports,
   bug,
   bottom,

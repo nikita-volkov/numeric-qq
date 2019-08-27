@@ -3,7 +3,7 @@ name:
 version:
   0.1.3
 synopsis:
-  Quasi-quoters for numbers of different bases
+  Quasi-quoters for numbers of various bases
 description:
   Quasi-quoters for numeral systems of standard bases:
   .
@@ -34,7 +34,7 @@ license-file:
 build-type:
   Custom
 cabal-version:
-  >=1.10
+  >=2
 
 
 source-repository head
