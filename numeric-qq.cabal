@@ -35,6 +35,7 @@ build-type:
   Custom
 cabal-version:
   >=2
+Tested-With: GHC ==8.6.3 || ==8.4.4
 
 
 source-repository head
